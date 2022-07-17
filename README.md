@@ -10,4 +10,6 @@
 
 Using ML to create Synthetic Data to address issues in NaN and algorithmic bias.
 
-Please find my solution labelled 'Daniel_Elston_Solution.ipynb'.
+Please find my solution labelled 'Daniel_Elston_Solution.ipynb'. It should be the first file.
+
+Please note, this code can be significantly improved to produce a single run cell that can produce the desired results.
